@@ -1,0 +1,4 @@
+# webpack-demo
+```
+npm i
+```
