@@ -1,0 +1,14 @@
+@font-face {
+      font-family: 'MyFont';
+      src:  url('./font/Lato-Regular.woff2') format('woff2'),
+            url('./font/Lato-Regular.woff') format('woff');
+      font-weight: 600;
+      font-style: normal;
+    }
+
+.hello {
+    color: red;
+    background: url('./knowledge.jpg');
+    font-family: 'MyFont';
+    background-repeat: no-repeat;
+  }
